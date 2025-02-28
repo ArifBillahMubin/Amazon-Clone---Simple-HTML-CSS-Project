@@ -36,10 +36,11 @@ This project is a simple clone of the Amazon homepage, built using only HTML and
 ├── style.css     # Stylesheet file
 ├── images/       # Folder containing images (if any)
 ```
-
-## 👨‍💻 Author
-
-- **Your Name** (GitHub: [your-username](https://github.com/your-username))
+## Author 👨‍💻
+**Md. Arif Billah Mubin**  
+🎓 **University**: Green University of Bangladesh  
+📧 **Email**: arifbillahmubin@gmail.com  
+🔗 **GitHub**: [ArifBillahMubin](https://github.com/ArifBillahMubin)
 
 ---
 
